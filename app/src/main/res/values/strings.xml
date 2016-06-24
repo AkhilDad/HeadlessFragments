@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CodingExercise</string>
+    <string name="dialog_message_fetching_comments">Fetching comments</string>
+    <string name="dialog_message_fetching_issues">Fetching issues</string>
+    <string name="toast_comments_loading_failed">Error!! Comments cannot be loaded</string>
+    <string name="toast_issues_loading_failed">Error!! Issues cannot be loaded</string>
+    <string name="toast_no_comments_for_this_issue">No comments yet for this issue</string>
+    <string name="err_no_network_connection">Check you internet connection and retry!</string>
+    <string name="label_retry">Retry</string>
+</resources>
